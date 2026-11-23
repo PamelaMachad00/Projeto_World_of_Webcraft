@@ -14,10 +14,10 @@
 | Integrante | Responsabilidade | GitHub |
 |---|---|---|
 | Pamela da Silva | Líder e Arquiteto Principal | @PamelaMachad00 |
-| Maria Vitória Souza | Pesquisador e Modelagem DDD | @MariaVitoria-S |
-| Caio André Gouveia  | Pesquisador e Engenheiro de Resiliência e Integração | @CaioGouveia924 |
+| Caio André Gouveia | Pesquisador e Modelagem DDD | @CaioGouveia924 |
+| Maria Vitória Souza | Pesquisador e Engenheiro de Resiliência e Integração | @MariaVitoria-S |
 | Cibely Godoy Martins | Executor e Especialista em IA-Native e Autonomia | @CibelyMartins |
-| Mariana Felix Cardoso | Executor, QA e Desenvolvedor de Fitness Functions | @mareeu |
+| Marina Cardoso Felix da Silva | Executor, QA e Desenvolvedor de Fitness Functions | @mareeu |
 
 ---
 
